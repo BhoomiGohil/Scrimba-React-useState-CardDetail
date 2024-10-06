@@ -30,8 +30,8 @@ This React application displays a contact card that showcases user information. 
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-folder>
+git clone https://github.com/BhoomiGohil/Scrimba-React-useState-CardDetail.git
+cd Scrimba-React-useState-CardDetail
 ```
 
 2. Install dependencies:
